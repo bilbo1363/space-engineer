@@ -1,4 +1,48 @@
-# Космический Инженер: Миссия на Землю-3
+# 🚀 Space Engineer (Космический Инженер)
+
+<div align="center">
+
+**Educational game for learning programming through visual node-based programming**
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0_MVP-blue.svg)](https://github.com/bilbo1363/space-engineer)
+[![Status](https://img.shields.io/badge/status-MVP_Complete-success.svg)](https://github.com/bilbo1363/space-engineer)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+[English](#english) | [Русский](#russian)
+
+</div>
+
+---
+
+## 🌟 About
+
+**Space Engineer** is an educational game designed for children aged 8-14 to learn programming fundamentals through gameplay. Players create programs using a modern node-based editor and watch their robots execute missions in a beautiful 3D environment.
+
+### ✨ Key Features
+
+- 🎯 **Node-based Programming** - Modern visual programming (like Unreal Blueprints)
+- 🤖 **3D Visualization** - Full 3D scene with animations (Three.js)
+- 🔧 **Custom Functions** - Create reusable functions
+- 📊 **Dual View** - 2D simulator + 3D visualization
+- 🎓 **Progressive Learning** - From simple to complex
+- 💾 **Schema Management** - Save, search, organize programs
+
+---
+
+## 📸 Screenshots
+
+> Coming soon! The game features:
+> - Beautiful 3D space environments
+> - Intuitive node-based programming interface
+> - Animated robot executing your programs
+> - Mission briefings and results screens
+
+---
+
+<a name="russian"></a>
+
+## 🇷🇺 Русская версия
 
 Образовательная игра для обучения школьников 5-9 классов основам программирования через визуальное программирование роботов.
 
